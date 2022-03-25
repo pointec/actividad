@@ -3,3 +3,27 @@
 
     text-align: center;
 }
+
+.limitar_tamano 
+{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+
+
+}
+
+.separacion
+{
+margin-top: 50px;
+
+}
+
+@media (max-width: 700px){
+    .separacion2
+    {
+    
+        margin-top: 30px;
+    }
+
+}
